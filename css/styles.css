@@ -6295,7 +6295,7 @@ button.bg-dark:focus {
 }
 
 .rounded-pill {
-  border-radius: 50rem !important;
+  border-radius: 10rem !important;
 }
 
 .rounded-0 {
@@ -10444,6 +10444,19 @@ header.masthead .masthead-heading {
   margin-bottom: 0;
 }
 
+.mentor-member {
+  margin-bottom: 3rem;
+  text-align: center;
+}
+.mentor-member img {
+  width: 14rem;
+  height: 14rem;
+  border: 0.5rem solid rgba(0, 0, 0, 0.1);
+}
+.mentor-member h4 {
+  margin-top: 1.5rem;
+  margin-bottom: 0;
+}
 section#contact {
   background-color: #212529;
   background-repeat: no-repeat;
