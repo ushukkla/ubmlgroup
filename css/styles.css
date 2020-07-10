@@ -6295,7 +6295,7 @@ button.bg-dark:focus {
 }
 
 .rounded-pill {
-  border-radius: 10rem !important;
+  border-radius: 50rem !important;
 }
 
 .rounded-0 {
@@ -10443,7 +10443,6 @@ header.masthead .masthead-heading {
   margin-top: 1.5rem;
   margin-bottom: 0;
 }
-
 .mentor-member {
   margin-bottom: 3rem;
   text-align: center;
